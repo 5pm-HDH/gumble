@@ -11,7 +11,7 @@ const (
 
 	// AudioSampleRate is the audio sample rate (in hertz) for incoming and
 	// outgoing audio.
-	AudioSampleRate = 16000
+	AudioSampleRate = 44100
 
 	// AudioDefaultIntervalMS is the default interval in milliseconds that audio
 	// packets are sent at.
