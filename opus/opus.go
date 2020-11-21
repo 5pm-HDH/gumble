@@ -1,8 +1,8 @@
-package opus // import "github.com/dchote/gumble/opus"
+package opus // import "github.com/5pm-HDH/gumble/opus"
 
 import (
+	"github.com/5pm-HDH/gumble/gumble"
 	"github.com/dchote/gopus"
-	"github.com/dchote/gumble/gumble"
 )
 
 var Codec gumble.AudioCodec

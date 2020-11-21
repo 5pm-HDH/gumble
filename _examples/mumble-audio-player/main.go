@@ -1,4 +1,4 @@
-package main // import "github.com/dchote/gumble/_examples/mumble-audio-player"
+package main // import "github.com/5pm-HDH/gumble/_examples/mumble-audio-player"
 
 import (
 	"flag"
@@ -6,10 +6,10 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/dchote/gumble/gumble"
-	"github.com/dchote/gumble/gumbleffmpeg"
-	"github.com/dchote/gumble/gumbleutil"
-	_ "github.com/dchote/gumble/opus"
+	"github.com/5pm-HDH/gumble/gumble"
+	"github.com/5pm-HDH/gumble/gumbleffmpeg"
+	"github.com/5pm-HDH/gumble/gumbleutil"
+	_ "github.com/5pm-HDH/gumble/opus"
 )
 
 func main() {

@@ -1,12 +1,12 @@
-package gumbleopenal // import "github.com/dchote/gumble/gumbleopenal"
+package gumbleopenal // import "github.com/5pm-HDH/gumble/gumbleopenal"
 
 import (
 	"encoding/binary"
 	"errors"
 	"time"
 
+	"github.com/5pm-HDH/gumble/gumble"
 	"github.com/dchote/go-openal/openal"
-	"github.com/dchote/gumble/gumble"
 )
 
 var (

@@ -1,4 +1,4 @@
-package varint // import "github.com/dchote/gumble/gumble/varint"
+package varint // import "github.com/5pm-HDH/gumble/gumble/varint"
 
 import (
 	"encoding/binary"

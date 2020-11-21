@@ -1,4 +1,4 @@
-package gumble // import "github.com/dchote/gumble/gumble"
+package gumble // import "github.com/5pm-HDH/gumble/gumble"
 
 // Users is a map of server users.
 //

@@ -1,4 +1,4 @@
-package gumble // import "github.com/dchote/gumble/gumble"
+package gumble // import "github.com/5pm-HDH/gumble/gumble"
 
 import (
 	"crypto/x509"
@@ -9,8 +9,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/dchote/gumble/gumble/MumbleProto"
-	"github.com/dchote/gumble/gumble/varint"
+	"github.com/5pm-HDH/gumble/gumble/MumbleProto"
+	"github.com/5pm-HDH/gumble/gumble/varint"
 	"github.com/golang/protobuf/proto"
 )
 

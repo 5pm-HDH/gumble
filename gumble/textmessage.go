@@ -1,7 +1,7 @@
-package gumble // import "github.com/dchote/gumble/gumble"
+package gumble // import "github.com/5pm-HDH/gumble/gumble"
 
 import (
-	"github.com/dchote/gumble/gumble/MumbleProto"
+	"github.com/5pm-HDH/gumble/gumble/MumbleProto"
 )
 
 // TextMessage is a chat message that can be received from and sent to the

@@ -1,10 +1,10 @@
-package gumbleutil // import "github.com/dchote/gumble/gumbleutil"
+package gumbleutil // import "github.com/5pm-HDH/gumble/gumbleutil"
 
 import (
 	"crypto/tls"
 	"flag"
 	"fmt"
-	"github.com/dchote/gumble/gumble"
+	"github.com/5pm-HDH/gumble/gumble"
 	"net"
 	"os"
 	"strconv"

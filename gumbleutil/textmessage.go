@@ -1,11 +1,11 @@
-package gumbleutil // import "github.com/dchote/gumble/gumbleutil"
+package gumbleutil // import "github.com/5pm-HDH/gumble/gumbleutil"
 
 import (
 	"bytes"
 	"encoding/xml"
 	"strings"
 
-	"github.com/dchote/gumble/gumble"
+	"github.com/5pm-HDH/gumble/gumble"
 )
 
 // PlainText returns the Message string without HTML tags or entities.

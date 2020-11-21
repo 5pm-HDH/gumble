@@ -1,7 +1,7 @@
-package gumble // import "github.com/dchote/gumble/gumble"
+package gumble // import "github.com/5pm-HDH/gumble/gumble"
 
 import (
-	"github.com/dchote/gumble/gumble/MumbleProto"
+	"github.com/5pm-HDH/gumble/gumble/MumbleProto"
 )
 
 // ContextActionType is a bitmask of contexts where a ContextAction can be
